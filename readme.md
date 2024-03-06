@@ -8,3 +8,14 @@
 I love supporting the **[EFF](https://eff.org)**.
 This is the _[Markdown Guide](https://www.markdownguide.org)_.
 See the section on [`code`](#code).
+
+```
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<script></script>
+</body>
+</html>
+```
